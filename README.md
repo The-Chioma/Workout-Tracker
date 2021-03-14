@@ -26,6 +26,6 @@ The user is be able to:
 
 ## Links
 
-* The URL to the deployed application 
+* [The URL to the deployed application](https://eva-workout-tracker.herokuapp.com/)
 
 * [The URL to the GitHub repository](https://github.com/The-Chioma/Workout-Tracker)
