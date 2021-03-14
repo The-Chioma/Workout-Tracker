@@ -24,6 +24,7 @@ The user is be able to:
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
+## Links
 
 * The URL to the deployed application 
 
